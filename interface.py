@@ -220,7 +220,7 @@ def manipula_arquivo(state_bool):
                 linhas = arquivo.read().splitlines()
                 arquivo.close()
                 del arquivo
-                return linhas
+                return linhas if len(linhas) == 7 else None
         except IOError:
             return None
     else:
