@@ -111,7 +111,7 @@ def envia_tipos():
 
 def mostra_efetividades(type1, type2=None):
     """
-    Utiliza o tipo passado(s) pelo usuário e os transforma em um objeto Pokemon, todos os calculos são feitos em
+    Utiliza o tipo passado(s) pelo usuário e os transforma em um objeto Pokemon, todos os cálculos são feitos em
     calc_tipos.py e esta função cuida de como mostrá-los ao usuário
     """
     pokemon = calc.Pokemon(str(type1).lower(), str(type2).lower())
@@ -347,5 +347,5 @@ root.mainloop()
 manipula_arquivo(False)
 
 """
-checa-se o arquivo e inicia-se o loop infinito da interface.
+checa-se o arquivo e inicia-se o loop infinito da interface. Ao fechar, salva o arquivo.
 """
