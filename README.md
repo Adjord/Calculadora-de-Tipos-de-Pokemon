@@ -8,7 +8,7 @@
 - 🔪 Se existir, o multiplicador de dano pelo seu segundo tipo;
 - 🤓 Uma explicação sobre a interação de tipos.
 
-![image](https://user-images.githubusercontent.com/76066361/206818151-3d10ed26-aef2-400f-959e-dce2e2eed281.png)
+![image](https://user-images.githubusercontent.com/76066361/209421157-d9726ea0-6cba-4c45-bf4a-88bf18cf71e8.png)
 
 ## 🛠️  Como inciar:
 Para rodar, simplesmente inicie interface.py:
