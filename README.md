@@ -1,5 +1,5 @@
 # Calculadora de efetividade de tipos de Pokémon
-### Criada como projeto final para o Programa Caça Talentos (PE)
+### Esta branch é como o projeto foi finalizado e enviado como projeto final para o Programa Caça Talentos (PE). Foi minha primeira vez fazendo interfaces gráficas e me diverti muito. porém, com os desafios propostos meu código não ficou como eu gostaria, ent
 
 
 ## 📎 Com a introdução do tipo fada, temos mais de 5000 interações entre Pokémon e ataques, com isso fica difícil não esquecer de uma interação ou outra. Pensando nisso, esta calculadora mostra: 
